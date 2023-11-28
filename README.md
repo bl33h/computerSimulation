@@ -22,7 +22,7 @@ The main features of the application include:
 - **Version I**: This is the initial version of the simulation, designed to explore and measure the efficiency of the integer division operation.
 
 ## How To Use
-To clone and run this application, you'll need [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install) and the following tools installed on it: [Git](https://git-scm.com). Follow the steps below:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
