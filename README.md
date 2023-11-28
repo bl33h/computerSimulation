@@ -3,7 +3,7 @@ It's a project that delves into the realm of computer simulations. The simulatio
 
 <p align="center">
   <br>
-  <img src="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" alt="pic" width="500">
+  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" alt="pic" width="500">
   <br>
 </p>
 
